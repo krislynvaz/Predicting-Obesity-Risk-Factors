@@ -1,14 +1,14 @@
-# Project Overview
+## Project Overview
 This study investigates how lifestyle behaviors and physical attributes influence obesity levels,
 using a dataset of 2,111 individuals that captures demographic, nutritional, and daily-activity
 patterns. The main goals of the study included identifying physical and behavioral features that
 were associated with a higher risk for obesity and determining which attributes play a bigger role
 in predicting individuals at risk.
 
-# Dataset
+## Dataset
 [Obesity Dataset](https://www.kaggle.com/datasets/ankurbajaj9/obesity-levels/data)
 
-# Conclusion
+## Conclusion
 This study demonstrates that obesity levels can be predicted with a strong accuracy using
 various data mining techniques. While physical attributes such as weight, height, and gender
 provide a solid baseline for predicting obesity rates, behavioral characteristics such as eating
