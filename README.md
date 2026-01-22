@@ -17,12 +17,14 @@ evaluated, XGBoost delivered the highest overall performance, followed closely b
 Forest. These models were especially effective at capturing the complex, non-linear
 relationships within behavioral data that simpler linear models like logistic regression could not
 fully detect.
+
 The results also reveal important insights into the primary influences of obesity classification.
 Those with lower physical activity, frequent fast-food consumption, and higher emotional-eating
 tendencies were repeatedly classified into higher obesity categories. Also, variables such as
 caloric intake (CALC), vegetable consumption (FCVC), and meal frequency (NCP) played
 significant roles in the strongest-performing models. These findings reinforce that lifestyle
 choices serve as important predictive features when incorporated into machine-learning models.
+
 Overall, the analysis confirms that obesity is strongly rooted in lifestyle patterns, and that
 data-driven modeling can support more targeted approaches to weight-related health outcomes.
 Lifestyle and behavioral variables offer high-impact, valuable targets for public-health
